@@ -3,7 +3,7 @@ name: Bug Report
 about: 'Сообщить об ошибке в работе системы'
 title: ''
 labels: bug
-type: 'task'
+type: task
 ---
 
 **Описание проблемы**
