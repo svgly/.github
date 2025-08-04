@@ -1,0 +1,9 @@
+*.yml eol=lf
+*.md eol=lf
+
+*.yml text linguist-detectable=true
+*.md text linguist-detectable=true
+
+*.yml merge=union
+
+*.gitattributes text export-ignore
